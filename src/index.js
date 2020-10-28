@@ -15,7 +15,7 @@ const imageData = [
 
 
 // TASK 2- Verify our imports using log statements
-console.log() // log the panelData
+console.log('hello') // log the panelData
 console.log() // log the open arrow
 console.log() // log the close arrow
 
